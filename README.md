@@ -1,2 +1,2 @@
 # Inverted-Triangle
-A simple C# program that prints an inverted triangle
+A simple C# program that prints an inverted triangle using loops.
